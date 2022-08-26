@@ -11,7 +11,7 @@ const cartRoute = require("./routes/cart");
 const orderRoute = require("./routes/order");
 const stripeRoute = require("./routes/stripe");
 const sliderRoute = require("./routes/Slider");
-const hotelRoute = require("./routes/Hotel");
+const hotelRoute = require("./routes/hotel");
 const cors = require("cors");
 
 mongoose
